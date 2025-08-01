@@ -1,0 +1,7 @@
+# requirements.txt
+
+pyrogram
+TgCrypto
+Flask
+gunicorn
+googletrans==4.0.0-rc1
